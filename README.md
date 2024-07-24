@@ -1,2 +1,2 @@
 # LeetCode
-DSA 
+DSA ,SQL 
